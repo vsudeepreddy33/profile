@@ -40,13 +40,14 @@ h1{
     position: relative;
     height:300px;
     width:300px;
-    bottom: 34px;
+    bottom: 59px;
     margin: 0px;
 }
 
 table{
     margin: 30px auto;
     line-height: 2;
+    text-align: left;
 }
 
 .page-2{
@@ -57,4 +58,17 @@ table{
     height:200px;
     width:200px;
     margin: 20px;
+}
+
+.skills-title{
+    font-weight: bold;
+}
+
+.scroll-down-blue{
+    position: absolute;
+    bottom: 85px;
+    right: 20px;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
 }
